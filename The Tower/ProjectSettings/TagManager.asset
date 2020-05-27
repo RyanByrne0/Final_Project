@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - StairPickup
+  - Stairs
+  - GreenDoor
+  - RedDoor
+  - GoldDoor
+  - GreenKey
+  - RedKey
+  - GoldKey
+  - Guard
+  - Ground
   layers:
   - Default
   - TransparentFX

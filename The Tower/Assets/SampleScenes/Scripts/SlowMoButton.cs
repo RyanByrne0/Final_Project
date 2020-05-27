@@ -23,7 +23,7 @@ namespace UnityStandardAssets.SceneUtils
 
 		void OnDestroy()
 		{
-			Time.timeScale = 1;
+			//Time.timeScale = 1;
 		}
 
         public void ChangeSpeed()
@@ -40,7 +40,7 @@ namespace UnityStandardAssets.SceneUtils
 
             button.targetGraphic = image;
 
-			Time.timeScale = m_SlowMo ? slowSpeed : fullSpeed;
+			//Time.timeScale = m_SlowMo ? slowSpeed : fullSpeed;
         }
     }
 }
